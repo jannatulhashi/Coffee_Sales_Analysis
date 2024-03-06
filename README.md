@@ -1,5 +1,7 @@
 # Coffee_Sales_Analysis
 
+![](Images/coffee.jpg)
+
 ## About This Project
 
 ### Project Background
