@@ -111,9 +111,9 @@ Based on the valuable insights derived from the dashboard analysis, I propose th
 - Data-Driven Inventory: Regularly review and analyze customer preferences for different roast types and sizes, adjusting inventory levels to ensure that the most popular items are always available, thereby reducing stockouts and excess inventory.
   
 - Product Development: Consider introducing new products or variations based on the observed preferences and trends. This could include exploring new roast profiles, flavors, or size options that have the potential to attract a broader customer base or satisfy emerging market demands.
-- 
+
 By implementing these recommendations, the business can not only improve its current performance but also set a solid foundation for sustained growth and customer satisfaction in the competitive coffee market.
 
 ### Conclusion
 
-The "Coffee Sales Analysis" project is a personal venture that exemplifies the synergy between my love for coffee and my skillset in data analysis. It is a practical demonstration of how data can tell a compelling story and shape business strategy. This project not only serves as a learning experience but also as a potential blueprint for data-driven decision-making in the coffee industry..
+The **Coffee Sales Analysis** project is a personal venture that exemplifies the synergy between my love for coffee and my skillset in data analysis. It is a practical demonstration of how data can tell a compelling story and shape business strategy. This project not only serves as a learning experience but also as a potential blueprint for data-driven decision-making in the coffee industry..
