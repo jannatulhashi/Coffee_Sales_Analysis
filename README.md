@@ -38,6 +38,16 @@ To create this comprehensive dashboard, I leveraged the capabilities of Microsof
 
 **Pivot Tables and Pivot Charts:** These powerful features were instrumental in summarizing large datasets and creating interactive charts that dynamically update the data, facilitating an insightful analysis.
 
+![](Images/orderstable.PNG)
+
+![](Images/orderstable2.PNG)
+
+![](Images/TotalSales.PNG)
+
+![](Images/CountryBarChart.PNG)
+
+![](Images/Top10Customers.PNG)
+
 ### Analysis Process
 
 The analysis involved meticulously:
@@ -48,9 +58,9 @@ The analysis involved meticulously:
   
 - Engineering an interactive dashboard with the capability to filter through different data points such as time periods, roast types, product sizes, and loyalty card status.
 
-![](coffee_dashboard.PNG)
-
 ### Insights Gained
+
+![](coffee_dashboard.PNG)
 
 Through the dashboard, I derived several key insights:
 
