@@ -126,4 +126,4 @@ By implementing these recommendations, the business can not only improve its cur
 
 ### Conclusion
 
-The **Coffee Sales Analysis** project is a personal venture that exemplifies the synergy between my love for coffee and my skillset in data analysis. It is a practical demonstration of how data can tell a compelling story and shape business strategy. This project not only serves as a learning experience but also as a potential blueprint for data-driven decision-making in the coffee industry..
+The **Coffee Sales Analysis** project is a personal venture that exemplifies the synergy between my love for coffee and my skillset in data analysis. It is a practical demonstration of how data can tell a compelling story and shape business strategy. This project not only serves as a learning experience but also as a potential blueprint for data-driven decision-making in the coffee industry.
